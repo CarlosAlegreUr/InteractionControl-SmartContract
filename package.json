@@ -1,15 +1,18 @@
 {
   "name": "interaction-control-contract",
   "version": "1.0.0",
-  "description": "Ensures your functions are only called by an address in a previously allowed order or a previously allowed number of times.",
+  "description": "InteractionControl combines different smart contracts to grant total control of your functions if desired. From who calls them to in which order and even with which inputs' values.",
   "main": "index.js",
   "repository": "",
   "keywords": [
     "solidity",
     "smartcontract",
     "call",
+    "input",
     "order",
     "function",
+    "blockchain",
+    "interaction",
     "control",
     "evm",
     "hardhat"
