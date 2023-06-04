@@ -4,9 +4,6 @@ pragma solidity ^0.8.9;
 import "input-control-contract/InputControl.sol";
 import "call-order-control-contract/CallOrderControl.sol";
 
-// Uncomment this line to use console.log
-// import "hardhat/console.sol";
-
 /**
  * @title Interaction Control.
  * @author Carlos Alegre Urquizú (GitHub --> https://github.com/CarlosAlegreUr)
@@ -26,8 +23,8 @@ contract InteractionControl is CallOrderControl, InputControl {
      * @dev Calls modifierApplier() function which has this two
      * modifiers applied to it:
      *
-     *          isAllowedCall() => (link)
-     *          isAllowedInput() => (link)
+     *          isAllowedCall() => (https://github.com/CarlosAlegreUr/CallOrderControl-SmartContract-DesignPattern/blob/main/CallOrderControl.sol)
+     *          isAllowedInput() => (https://github.com/CarlosAlegreUr/InputControl-SmartContract-DesignPattern/blob/main/InputControl.sol)
      *
      * Check the link for details on how they work.
      */
