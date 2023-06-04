@@ -57,6 +57,16 @@ Check a simple implemented example at [UseCaseContract.sol](https://github.com/C
 
 <hr/>
 
+## ⚙️ DEPENDENCIES ⚙️
+
+#### npm packages
+
+- ### [InputControl](https://www.npmjs.com/package/input-control-contract)
+
+- ### [CallOrderControl](https://www.npmjs.com/package/call-order-control-contract)
+
+<hr />
+
 ## 🎉 FUTURE IMPROVEMENTS 🎉
 
 - Improve and review (static analysis, audit...) code's tests.
