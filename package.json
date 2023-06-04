@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "InteractionControl combines different smart contracts to grant total control of your functions if desired. From who calls them to in which order and even with which inputs' values.",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/CarlosAlegreUr/InteractionControl-SmartContract",
   "keywords": [
     "solidity",
     "smartcontract",
