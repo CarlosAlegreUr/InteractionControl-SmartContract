@@ -71,7 +71,6 @@ Check a simple implemented example at [UseCaseContract.sol](https://github.com/C
 
 - Improve and review (static analysis, audit...) code's tests.
 - Test in testnet.
-- Finish testing localhost, errors and inconsistencies found in dependant packages.
 
 <hr/>
 
